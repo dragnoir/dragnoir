@@ -1,4 +1,4 @@
-👋 Hi, I’m Rachid, with deep experience in UI/UX and passion to web3 coding, I hope to make the blockchain easy and available for every one. 
+👋 Hi, I’m Rachid, with deep experience in UI/UX and passion to web3 coding, I hope to make the blockchain easy and available for every one. The technology is so powerful but it's hard for peoples to use and integrate. This why I am here, I want kids to use the blockchain in their projects,,easy just drag & drop :)
 
 # Side Projects:
 
