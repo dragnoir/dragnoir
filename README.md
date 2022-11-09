@@ -7,6 +7,7 @@
 # Work:
  - [artefin](https://nft.artefin.cz/): NFT gallery of arts
  - [The Republik Network](https://launchpad-therepublik.netlify.app/): NFTs for metavers
+ - [Callisto Security Audit Portal](https://audits.callisto.network/): listing audited crypto projects
 
 
 <!---
