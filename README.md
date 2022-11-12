@@ -2,7 +2,7 @@
 
 # Side Projects:
 
- - [Decentralized NFT Wallet on Callisto Network](https://callisto-nft-wallet.netlify.app/)
+ - [Decentralized NFT Wallet on Callisto Network](https://callistonian.me/)
 
 # Work:
  - [artefin](https://nft.artefin.cz/): NFT gallery of arts
