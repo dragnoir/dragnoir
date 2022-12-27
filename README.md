@@ -13,6 +13,7 @@ I believe that by making the blockchain more accessible and user-friendly, we ca
  - [The Republik Network](https://launchpad-therepublik.netlify.app/): NFTs for metavers
  - [Callisto Security Audit Portal](https://audits.callisto.network/): listing audited crypto projects
  - [Callisto Network Masternode Management Panel](https://masternodes.callisto.network/): UI to manage Masternode from contract
+ - [The Callistonians NFTs Free Mint](https://thecallistonians.callisto.network/): NFT minting for cold stakers
 
 
 <!---
