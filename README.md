@@ -7,6 +7,7 @@ I believe that by making the blockchain more accessible and user-friendly, we ca
 # Side Projects:
 
  - [Decentralized NFT Wallet on Callisto Network](https://callistonian.me/)
+ - One Click ERC deploy tool (coming..)
 
 # Latest Work:
  - [artefin](https://nft.artefin.cz/): NFT gallery of arts
