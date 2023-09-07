@@ -1,4 +1,5 @@
-👋 Front-End Specialist, proficient in UI/UX design with a knack for pixel-perfect conversion. Expertise extends to complex TypeScript algorithms and significant web3 experience emphasizing DeFi and NFTs.
+👋 Front-End Specialist, proficient in UI/UX design with a knack for pixel-perfect conversion. Expertise extends to complex web3 experience emphasizing DeFi and NFTs.
+I consider myself a culinary enthusiast; to me, food is not just nourishment but an art form. Each meal is an expedition in my ongoing gastronomic adventure.
 
 # Side Projects:
 
