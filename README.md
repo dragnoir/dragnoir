@@ -5,7 +5,7 @@ I consider myself a culinary enthusiast 🍲; to me, food is not just nourishmen
 # Side Projects:
 
  - [Decentralized NFT Wallet on Callisto Network](https://callistonian.me/)
- - One Click ERC deploy tool (coming..)
+ - React popups (coming..)
 
 # Latest Work:
  - [artefin](https://nft.artefin.cz/): NFT gallery of arts
