@@ -1,43 +1,49 @@
-# 👋 Hello World! I'm Rachid
+## 👋 Hi there! I'm a Senior Headless Shopify Developer
 
-## 🚀 Front-End Developer & Web3 Enthusiast
-
-### 🛠 **Technologies & Skills:**
-
-#### 🌐 Front-End
-- ⚛️ **React**
-- 📜 **TypeScript**
-- 🎨 **CSS3 & HTML5**
-- 🌈 **Styled Components**
-- 🧰 **Webpack & Babel**
-
-#### 🔗 Web3 & Back-End
-- ⛓ **Ether.js**
-- 🍃 **MongoDB**
-- 📊 **GraphQL**
-- 💎 **Smart Contracts**
-- 💻 **Solidity**
+I specialize in building high-performance, scalable e-commerce experiences. With over 12 years of experience in frontend development, I bridge the gap between complex backend logic and pixel-perfect UI/UX. Currently, I'm focused on pushing the boundaries of **Headless Shopify** architectures.
 
 ---
 
-### 💡 **Open Source Contributions:**
+### 🚀 What I Do
 
-- 🤝 Contributed to **[Expensify](https://github.com/Expensify/App)** - Enhancing user experience and fixing bugs.
-- 🛠 Building **[Reactible Popups](https://github.com/Reactible/reactible-popups)** - A flexible Popup library for React applications.
-
----
-
-### 📫 **Get in Touch:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/rachid-lajmi/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/RachidLajmi)
-[![Mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:lajmirachid@gmail.com)
+* **Headless E-commerce:** Crafting lightning-fast storefronts using **Hydrogen**, **Remix**, and **Next.js**.
+* **Custom Shopify Apps:** Building tailored solutions to extend Shopify's core functionality.
+* **Performance Optimization:** Converting slow liquid themes into high-conversion, SEO-friendly machines.
+* **UI/UX Engineering:** Designing intuitive interfaces that turn visitors into loyal customers.
 
 ---
 
-### ⚡️ **Problem Solver at Heart:**
-🧩 I enjoy thinking critically to solve problems and creating products that make a real impact!
+### 🛠 Tech Stack
+
+| Category | Tools & Technologies |
+| --- | --- |
+| **Frameworks** | Next.js, Remix, React, Hydrogen |
+| **Shopify** | Liquid, Storefront API, App Bridge, Polaris |
+| **Styling** | Tailwind CSS, CSS Modules, Framer Motion |
+| **Tools** | Git, n8n (Automation), Docker, Coolify |
 
 ---
 
-*Let's collaborate and build something amazing together!*
+### 🛠 Projects & Contributions
+
+* **Cozy Admin Theme:** A custom WordPress plugin designed to streamline the admin experience.
+* **Clionet Live:** A SaaS MVP built to capture real-time engagement and leads from TikTok Live sessions.
+* **From Masters Academy:** A subscription-based e-learning platform focused on high-level skill sharing.
+
+---
+
+### 📈 GitHub Stats
+
+---
+
+### 📫 Let's Connect!
+
+* **Portfolio:** [Your Portfolio Link]
+* **LinkedIn:** [Your LinkedIn Profile]
+* **Company:** Founder at **Mosaixel** & **Polymath Labs**
+
+---
+
+> "Building the future of e-commerce, one headless storefront at a time." 🛠️✨
+
+Would you like me to add a specific section for your **Technical Writing** goals or include links to your recent Shopify projects?
