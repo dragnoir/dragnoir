@@ -31,19 +31,3 @@ I specialize in building high-performance, scalable e-commerce experiences. With
 * **From Masters Academy:** A subscription-based e-learning platform focused on high-level skill sharing.
 
 ---
-
-### 📈 GitHub Stats
-
----
-
-### 📫 Let's Connect!
-
-* **Portfolio:** [Your Portfolio Link]
-* **LinkedIn:** [Your LinkedIn Profile]
-* **Company:** Founder at **Mosaixel** & **Polymath Labs**
-
----
-
-> "Building the future of e-commerce, one headless storefront at a time." 🛠️✨
-
-Would you like me to add a specific section for your **Technical Writing** goals or include links to your recent Shopify projects?
