@@ -26,7 +26,7 @@ I specialize in building high-performance, scalable e-commerce experiences. With
 
 ### 🛠 Projects & Contributions
 
-* **🛍️ Shopify Agent Skills:** AI Agent Skills for Shopify Development 
+* **🛍️ [Shopify Agent Skills](https://github.com/dragnoir/Shopify-agent-skills):** AI Agent Skills for Shopify Development 
 * **Cozy Admin Theme:** A custom WordPress plugin designed to streamline the admin experience.
 * **Clionet Live:** A SaaS MVP built to capture real-time engagement and leads from TikTok Live sessions.
 * **From Masters Academy:** A subscription-based e-learning platform focused on high-level skill sharing.
