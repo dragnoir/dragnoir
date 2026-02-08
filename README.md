@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm a Senior Headless Shopify Developer
+## 👋 Hi there! I'm a Senior Shopify Developer
 
 I specialize in building high-performance, scalable e-commerce experiences. With over 12 years of experience in frontend development, I bridge the gap between complex backend logic and pixel-perfect UI/UX. Currently, I'm focused on pushing the boundaries of **Headless Shopify** architectures.
 
