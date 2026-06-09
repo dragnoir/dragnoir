@@ -26,7 +26,7 @@ I specialize in building high-performance, scalable e-commerce experiences. With
 
 ### 🛠 Projects & Contributions
 
-* **Shopify Theme Inspector MCP:** Coming soon
+* **[Shopify Theme Inspector MCP](https://github.com/dragnoir/Shopify-Theme-Inspector-MCP):** An MCP server that gives AI agents deep performance profiling and optimization capabilities for Shopify Liquid themes.
 * **🛍️ [Shopify Agent Skills](https://github.com/dragnoir/Shopify-agent-skills):** AI Agent Skills for Shopify Development 
 * **[Cozy Admin Theme](https://wordpress.org/plugins/cozy-admin-theme/):** A custom WordPress plugin designed to streamline the admin experience.
 * **[Clionet Live](https://clionet.live/):** A SaaS MVP built to capture real-time engagement and leads from TikTok Live sessions.
