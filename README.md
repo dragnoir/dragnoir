@@ -1,34 +1,39 @@
-## 👋 Hi there! I'm a Senior Shopify Developer
+# Rachid Lajmi
+## Ecommerce & Technology Leader
 
-I specialize in building high-performance, scalable e-commerce experiences. With over 12 years of experience in frontend development, I bridge the gap between complex backend logic and pixel-perfect UI/UX. Currently, I'm focused on pushing the boundaries of **Headless Shopify** architectures.
+I build useful products and systems for commerce and AI.
 
----
+With 12+ years building ecommerce experiences, I connect commerce strategy, product development, and technical execution. My foundation is hands-on Shopify and frontend engineering; my focus is turning complex business needs into clear priorities, dependable systems, and products people can use.
 
-### 🚀 What I Do
+### What I Do
 
-* **Headless E-commerce:** Crafting lightning-fast storefronts using **Hydrogen**, **Remix**, and **Next.js**.
-* **Custom Shopify Apps:** Building tailored solutions to extend Shopify's core functionality.
-* **Performance Optimization:** Converting slow liquid themes into high-conversion, SEO-friendly machines.
-* **UI/UX Engineering:** Designing intuitive interfaces that turn visitors into loyal customers.
+- **Ecommerce strategy & architecture:** Connect business goals with storefronts, integrations, and scalable commerce systems.
+- **Product leadership:** Translate complex requirements into product priorities, practical roadmaps, and useful customer experiences.
+- **Shopify engineering:** Build high-performance themes, headless storefronts, and custom applications with Liquid, Hydrogen, Remix, and Next.js.
+- **AI & automation:** Create practical tools and agent workflows that improve development and commerce operations.
 
----
+### Currently
 
-### 🛠 Tech Stack
+- Building **Shopify Theme Inspector MCP** and **Shopify Agent Skills** for AI-assisted Shopify development.
+- Building **Clionet Live** to capture high-intent leads from TikTok Live sessions.
+- Open to ecommerce and technology leadership, architecture, and product collaborations.
 
-| Category | Tools & Technologies |
+### Projects & Contributions
+
+- **[Shopify Theme Inspector MCP](https://github.com/dragnoir/Shopify-Theme-Inspector-MCP):** An MCP server that gives AI agents performance profiling and optimization capabilities for Shopify Liquid themes.
+- **[Shopify Agent Skills](https://github.com/dragnoir/Shopify-agent-skills):** Reusable agent skills for practical Shopify development workflows.
+- **[Cozy Admin Theme](https://wordpress.org/plugins/cozy-admin-theme/):** A WordPress plugin that creates a cleaner, calmer admin experience.
+- **[Clionet Live](https://clionet.live/):** A SaaS product for capturing real-time engagement and leads from TikTok Live sessions.
+
+### Technical Foundation
+
+| Area | Tools & Technologies |
 | --- | --- |
-| **Frameworks** | Next.js, Remix, React, Hydrogen |
-| **Shopify** | Liquid, Storefront API, App Bridge, Polaris |
-| **Styling** | Tailwind CSS, CSS Modules, Framer Motion |
-| **Tools** | Git, n8n (Automation), Docker, Coolify |
+| Frontend & headless commerce | Next.js, Remix, React, Hydrogen |
+| Shopify | Liquid, Storefront API, App Bridge, Polaris |
+| Interfaces | Tailwind CSS, CSS Modules, Framer Motion |
+| Automation & infrastructure | n8n, Git, Docker, Coolify |
 
----
+### Connect
 
-### 🛠 Projects & Contributions
-
-* **[Shopify Theme Inspector MCP](https://github.com/dragnoir/Shopify-Theme-Inspector-MCP):** An MCP server that gives AI agents deep performance profiling and optimization capabilities for Shopify Liquid themes.
-* **🛍️ [Shopify Agent Skills](https://github.com/dragnoir/Shopify-agent-skills):** AI Agent Skills for Shopify Development 
-* **[Cozy Admin Theme](https://wordpress.org/plugins/cozy-admin-theme/):** A custom WordPress plugin designed to streamline the admin experience.
-* **[Clionet Live](https://clionet.live/):** A SaaS MVP built to capture real-time engagement and leads from TikTok Live sessions.
-
----
+[Website](https://rachid.pro/) · [Writing](https://rachid.pro/writing/) · [LinkedIn](https://www.linkedin.com/in/rachid-lajmi-shopify-dev/)
